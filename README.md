@@ -1,6 +1,6 @@
-## Zomato Restaurant Recommendation System
+# Zomato Restaurant Recommendation System
 
-# Tools: Python, Tableau Public, GitHub
+## Tools: Python, Tableau Public, GitHub
 
 - Developed a Python-Tableau-based automated web application to recommend Zomato restaurants based on reviews of food quality and service. 
 - Built a centralized platform providing users with an interactive tool to explore restaurant recommendations, improving user engagement and productivity by 25%. 
